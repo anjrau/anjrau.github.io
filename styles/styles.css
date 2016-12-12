@@ -1,0 +1,43 @@
+body, td, table, div {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	
+	color: #ffffff;
+}
+a:link {
+	color: #BFCCD9;
+	text-decoration: underline;font-weight: bold;
+	}
+a:visited {
+	color: #BFCCD9;font-weight: bold;
+}
+
+a:hover {
+
+	text-transform: none;
+	color: White;
+	text-decoration: underline;font-weight: bold;
+
+}
+a:focus {
+	color: white;font-weight: bold;
+}
+.active {
+
+	text-transform: none;
+	color: White;
+	text-decoration: underline;font-weight: bold;
+
+}
+
+.active2 {
+
+	text-transform: none;
+	
+	text-decoration: underline;
+
+}
+li {
+	list-style: disc;
+	margin-left: 10px;
+	}
